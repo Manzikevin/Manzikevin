@@ -1,13 +1,14 @@
 <div align="center">
 
 # Manzi I. Kevin
-### **Full Stack Engineer & Cybersecurity Researcher**
 
 Custom software architect specializing in secure-by-default systems, high-performance web applications, and digital infrastructure.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Urumuri_Solutions-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://manzikevin.urumuri.online/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Check_Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://manzi.urumuri.online/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manzikevin)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manzikevin04@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,10,20&section=footer" width="100%" alt="divider" />
 
 </div>
 
@@ -54,37 +55,29 @@ I bridge the gap between robust, scalable development and rigorous security engi
 | **Tuganire** | End-to-end continuous, anonymous campus messaging and community engine. | React Native · Expo · Laravel API Engine |
 | **Sitaje** | Dedicated high-performance internship matchmaking network optimized for Rwandan industries. | Laravel · Alpine.js · Reverb · Salt |
 
----
 
-### Git Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manzikevin&theme=radical&column=5&margin-w=15&margin-h=15" alt="Manzi Kevin's Trophies" />
-</div>
 
 ---
-
-### GitHub Performance Insights
+## GitHub Performance Insights
 
 <div align="center">
   <table border="0">
     <tr>
+        <!-- Stats -->
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Manzikevin&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Manzi Kevin's GitHub Stats" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manzikevin&theme=radical" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=Manzikevin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manzikevin&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
 </div>
 
 ---
 
-###  Contribution Activity 
+## Contribution Activity
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manzikevin&theme=github-dark-vivid&bg_color=14151a&color=ff5370&line=ff5370&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manzikevin&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
