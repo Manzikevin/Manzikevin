@@ -69,3 +69,6 @@ I bridge the gap between robust, scalable development and rigorous security engi
 ---
 
 >  *"Code is a liability until it is proven secure."*
+>
+> 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,10,20&section=footer" width="100%" alt="divider" />
