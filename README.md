@@ -58,21 +58,7 @@ I bridge the gap between robust, scalable development and rigorous security engi
 
 
 ---
-## GitHub Performance Insights
 
-<div align="center">
-  <table border="0">
-    <tr>
-        <!-- Stats -->
-      <td align="center" valign="top">
-        <img src="https://streak-stats.demolab.com/?user=Manzikevin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-</div>
-
----
 
 ## Contribution Activity
 
