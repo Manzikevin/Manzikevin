@@ -2,7 +2,7 @@
 
 # Manzi I. Kevin
 
-[![committers.top badge](https://user-badge.committers.top/rwanda_private/USERNAME.svg)](https://user-badge.committers.top/rwanda_private/Manzikevin)
+[![committers.top badge](https://user-badge.committers.top/rwanda_private/Manzikevin.svg)](https://user-badge.committers.top/rwanda_private/Manzikevin)
 
 Custom software architect specializing in secure-by-default systems, high-performance web applications, and digital infrastructure.
 
