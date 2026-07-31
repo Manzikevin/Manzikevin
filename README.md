@@ -2,6 +2,8 @@
 
 # Manzi I. Kevin
 
+[![committers.top badge](https://user-badge.committers.top/rwanda_private/USERNAME.svg)](https://user-badge.committers.top/rwanda_private/Manzikevin)
+
 Custom software architect specializing in secure-by-default systems, high-performance web applications, and digital infrastructure.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Check_My_Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://manzi.urumuri.online/)
