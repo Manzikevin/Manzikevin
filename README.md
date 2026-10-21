@@ -69,11 +69,17 @@ I bridge the gap between robust, scalable development and rigorous security engi
 ## Contribution Activity
 
 <div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Manzikevin&theme=radical&no-frame=false&no-background=false&margin-w=15" alt="GitHub Trophies" />
+  <br /><br />
+
+  <!-- Stats & Top Languages Side-by-Side -->
   <img src="https://github-readme-stats.vercel.app/api?username=Manzikevin&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manzikevin&show_icons=true&theme=radical&hide_rank=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manzikevin&layout=compact&theme=radical" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manzikevin&layout=compact&theme=radical" alt="Top Languages" />
+  <br /><br />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-stats-vercel.app/api/streak/?username=Manzikevin&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
