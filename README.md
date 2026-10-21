@@ -69,7 +69,7 @@ I bridge the gap between robust, scalable development and rigorous security engi
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manzikevin&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?usernameManzikevin&show_icons=true&theme=radical)
 </div>
 
 ---
