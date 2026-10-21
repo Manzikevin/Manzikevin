@@ -70,6 +70,10 @@ I bridge the gap between robust, scalable development and rigorous security engi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manzikevin&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manzikevin&show_icons=true&theme=radical&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manzikevin&layout=compact&theme=radical" />
+</p>
 </div>
 
 ---
